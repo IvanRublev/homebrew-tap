@@ -1,8 +1,8 @@
 class Claudezero < Formula
   desc "Multiple Claude Code(s) implement, commit and check off a software spec todos"
   homepage "https://github.com/IvanRublev/claudezero"
-  url "https://github.com/IvanRublev/claudezero/archive/refs/tags/v0.0.14.tar.gz"
-  sha256 "a9fa7bb0257bc753d2b66a6b119a5d02ef352a77f13f3a5b4cebc16efd15cdda"
+  url "https://github.com/IvanRublev/claudezero/archive/refs/tags/v0.0.15.tar.gz"
+  sha256 "6b098edd3ab30aee01b305f5d3e40d9361926f2fbcc759f673cedb98a5a40da2"
   license "MIT"
   head "https://github.com/IvanRublev/claudezero", branch: "master"
 
