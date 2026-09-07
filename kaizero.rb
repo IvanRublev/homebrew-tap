@@ -1,4 +1,4 @@
-class Claudezero < Formula
+class Kaizero < Formula
   desc "Multiple Claude Code(s) implement, commit and check off a software spec todos"
   homepage "https://github.com/IvanRublev/kaizero"
   url "https://github.com/IvanRublev/kaizero/archive/refs/tags/v0.0.17.tar.gz"
