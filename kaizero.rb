@@ -7,9 +7,11 @@ class Kaizero < Formula
   head "https://github.com/IvanRublev/kaizero", branch: "master"
 
   depends_on "flock" # serializes cross-instance worktree merges; script hard-requires it
+  depends_on "tmux" # kz-tmux drives tmux sessions
 
   def install
     bin.install "kaizero.sh" => "kaizero"
+    bin.install "kz-tmux.sh" => "kz-tmux"
     doc.install "README.md"
   end
 
