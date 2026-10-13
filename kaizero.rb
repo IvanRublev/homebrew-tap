@@ -1,8 +1,8 @@
 class Kaizero < Formula
   desc "Multiple Claude Code(s) implement, commit and check off a software spec todos"
   homepage "https://github.com/IvanRublev/kaizero"
-  url "https://github.com/IvanRublev/kaizero/archive/refs/tags/v0.1.9.tar.gz"
-  sha256 "0ed9d104c4582cb223302047db81bed56020b4dd9386846e7f96547099e4afe5"
+  url "https://github.com/IvanRublev/kaizero/archive/refs/tags/v0.1.10.tar.gz"
+  sha256 "b878d572923129cd97f7cd9652738978f927840949132195b29f4d8636b74f8a"
   license "MIT"
   head "https://github.com/IvanRublev/kaizero", branch: "master"
 
